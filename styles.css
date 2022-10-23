@@ -58,6 +58,9 @@ button{
 button:active{
     background-color: #3e9e43;
 }
+button:hover{
+    color: #FFFFFF;
+}
 #especial{
     margin: 20px 20px;
 }
